@@ -1,2 +1,1 @@
-please request an access to the dataset by contacting me. 
-Replace the actual path to dataset with the placeholder
+This project is dedicated to optical character recognition in videos which is used to create cut-points for the news topics.
